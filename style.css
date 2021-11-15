@@ -69,6 +69,9 @@ header ul li a:hover, header ul li a.active {
     background: #fff;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+.menu {
+    display: none;
+}
 .content {
     transform: translateX(-100px);
     max-width: 700px;
@@ -148,4 +151,79 @@ header ul li a:hover, header ul li a.active {
     bottom: 30px;
     left: 50px;
     color: #8a2435;
+}
+@media only screen and (max-width: 1200px) {
+    .content h2 {
+        font-size: 2em;
+    }
+}
+@media only screen and (max-width: 1060px) {
+    header .logo {
+        font-size: 1.5em;
+    }
+    .container {
+        width: calc(100% - 70px);
+        padding: 30px;
+    }
+    .content {
+        padding: 30px;
+        padding-left: 90px;
+    }
+    .content h2 {
+        font-size: 1.5em;
+    }
+}
+@media only screen and (max-width: 960px) {
+    .container {
+        width: 100%;
+        display: inline;
+    }
+    header ul {
+        display: none;
+    }
+    .menu {
+        display: inline;
+        color: #000000;
+    }
+    .content {
+        padding-left: 0px;
+        display: inline;
+        border: none;
+    }
+    .content h2 {
+        margin-top: 50px;
+    }
+    .content p {
+        font-size: 1em;
+    }
+    .imgBox {
+        display: flex;
+        justify-content: center;
+    }
+    .imgBox img {
+        max-width: 100%;
+        margin-bottom: 100px;
+    }
+    .sci {
+        position: relative;
+        right: 0;
+        margin-bottom: -50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+    }
+    .copyrightText {
+        position: relative;
+        display: flex;
+        left: 0px;
+        justify-content: center;
+        text-align: center;
+        color: #8a2435;
+    }
+}
+@media only screen and (max-width: 624px) {
+    .sci {
+        margin-bottom: -65px;
+    }
 }
