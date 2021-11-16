@@ -8,8 +8,8 @@
   <li>Website: xcc.one</li>
  </ul>
 <h1>B. Mô tả chi tiết</h1>
-<h2>1. Mục đích:<h2>
-  <p>Xây dựng mẫu thiết kế hoàn chỉnh cho website xcc.one</p>
+<h2>1. Mục đích:</h2>
+<p>Xây dựng mẫu thiết kế hoàn chỉnh cho website xcc.one</p>
 <h2>2. Nội dung:</h2>
 <ul>
   <li>Mô tả website</li>
