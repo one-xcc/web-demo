@@ -12,10 +12,17 @@
 <p>Xây dựng mẫu thiết kế hoàn chỉnh cho website xcc.one</p>
 <h2>2. Nội dung:</h2>
 <ul>
-  <li>Mô tả website</li>
-  <li>Thành viên cộng đồng</li>
-  <li>Giới thiệu các website con</li>
-  <li>Các liên kết xã hội</li>
+  <li>Mô tả website: ONE XCC Network định hướng kết nối cộng động phát triển đa lĩnh vực ở Việt Nam, tạo điều kiện thuận lợi cho các doanh nghiệp sử dụng các tài nguyên, công nghệ; chia sẻ khách hàng và hỗ trợ khởi nghiệp 4.0...</li>
+  <li>Thành viên: XCC beSide, XCC drawUp</li>
+  <li>Giới thiệu các website con: Cập nhật sau</li>
+  <li>Các liên kết xã hội:
+    <ol>
+      <li>Facebook: https://www.facebook.com/xcc.one</li>
+      <li>YouTube: https://www.youtube.com/channel/UC84yKYSZ3ey4GM4MqXbnnaA</li>
+      <li>Github: https://github.com/one-xcc</li>
+    </ol>
+  </li>
+  <li>Đối tác: Chưa có</li>
 </ul>
 <h2>3. Phiên bản:</h2>
 <ul>
